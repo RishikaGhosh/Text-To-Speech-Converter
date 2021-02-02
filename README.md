@@ -1,2 +1,2 @@
 # Text-To-Speech-Converter
-created a simple Python project which converts Text to Speech
+Created a simple Python project which converts Text to Speech
